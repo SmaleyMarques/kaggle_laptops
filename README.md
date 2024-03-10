@@ -1,2 +1,2 @@
 # kaggle_laptops
- Projeto de Análise de Dados 
+ Projeto de Análise Exploratória usando Pandas
